@@ -1,0 +1,29 @@
+.jadepic{
+    width: 150px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title-name{
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+}
+
+.title-sub{
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+}
+
+header{
+    background-color:greenyellow ;
+    padding: 20px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
